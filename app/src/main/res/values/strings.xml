@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CoffeeShopApp</string>
+    <string name="app_logo">Coffee Shop App</string>
+    <string name="latte">Latte</string>
+    <string name="this_is_latte">This is Latte</string>
+    <string name="capuccino">Capuccino</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Other</item>
+    </string-array>
+</resources>
